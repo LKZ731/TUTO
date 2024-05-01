@@ -6,6 +6,11 @@
 `apt full-upgrade`
 `apt install bash curl wget sudo`
 `apt update`
+# ⚠ Installation des Dépendances pour garry's mod
+
+'sudo apt install libncurses5:i386'
+'sudo apt install lib32gcc-s1 lib32stdc++6'
+
 
 # 🔗 Installation du panel & Wings
 `bash <(curl -s https://pterodactyl-installer.se)`
